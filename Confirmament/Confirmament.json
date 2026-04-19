@@ -5,8 +5,8 @@
   "Description": "Helps automate handing in Kupo of Fortune vouchers to Lizbeth in the Firmament. Usage: Open Lizbeth's window and let Confirmament do the rest.",
   "ApplicableVersion": "any",
   "Tags": [
-    "sample",
-    "plugin",
-    "goats"
+    "automation",
+    "kupo",
+    "firmament"
   ]
 }
